@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'vaziri';
+    src: url('font/Vazir-Light.eot');
+    src: url('font/Vazir-Light.ttf') ,
+         url('font/Vazir-Light.woff'),
+         url('Font/Vazir-Light.woff2') ;
+    font-weight: normal;
+    font-style: normal
+  }
+  @font-face {
+  font-family: 'yekan';
+  src: url('font/Yekan.eot');
+  src: url('font/Yekan.ttf') ,
+       url('font/Yekan.woff');
+  font-weight: normal;
+  font-style: normal
+}
+
+*{
+    font-family: 'yekan', sans-serif !important;
+    font-weight: 100;
+}
+.logo{
+    width: 40px;
+}
+nav form{
+    margin-right: auto;
+}
+#baner>div{
+
+    height: 90vh;
+}
+#icon img{
+    width: 100px;
+    height: 100px;
+}
+.social-media{
+    width: 30px;
+    height: 30px;}
+#footer-logo{
+    width: 50px;
+}
+footer img{
+    width: 30px;
+}
